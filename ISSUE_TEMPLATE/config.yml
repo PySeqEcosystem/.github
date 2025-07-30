@@ -3,3 +3,6 @@ contact_links:
   - name: PySeq Zulip Chat
     url: https://pyseq.zulipchat.com/
     about: Please ask and answer questions here.
+  - name: PySeq Protocols
+    url: https://protocols.io/workspaces/pyseq-ecosystem
+    about: Please ask and answer questions about experiment protocols here.
