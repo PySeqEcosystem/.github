@@ -1,7 +1,7 @@
 name: Bug Report
 description: Report an error or unexpected behavior.
 labels: ["bug",]
-projects: ["krpandit/3",]
+projects: ["PySeqEcosystem/1",]
 assignees: 
   - krpandit
 body: 
