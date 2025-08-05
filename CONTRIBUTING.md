@@ -40,7 +40,7 @@ If you'd like to contribute, start by searching through the [pull requests](http
 
 If you don't see your idea listed, and you think it fits into the goals of PySeq Ecosystem, open a pull request.
 
-A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just open it as a “draft” or mark as a “WIP” (Work in Progress) in the subject line or “Notes to Reviewers” sections if provided (or you can just create your own. Like this: **## Notes to Reviewer**). You can always add more commits later.
+A pull request doesn’t have to represent finished work. It’s usually better to open a pull request early on, so others can watch or give feedback on your progress. Just mark it as a “wip” (Work in Progress) using the “wip” label. You can always add more commits later and remove the “wip” label.
 
 Here’s how to submit a pull request:
 
